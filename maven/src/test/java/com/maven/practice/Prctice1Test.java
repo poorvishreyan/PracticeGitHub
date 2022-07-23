@@ -11,5 +11,7 @@ public class Prctice1Test {
 		System.out.print("Hello");
 		
 		System.out.println("LOL");
+		
+		System.out.println("g");
 	}
 }
