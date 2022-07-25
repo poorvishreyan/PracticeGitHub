@@ -10,5 +10,6 @@ public class Prctice1Test {
 	{
 		System.out.print("Hello");
 //demo
+		//gkjhujk
 	}
 }
