@@ -9,6 +9,6 @@ public class Prctice1Test {
 	public void demo()
 	{
 		System.out.print("Hello");
-		//demo
+//demo
 	}
 }
